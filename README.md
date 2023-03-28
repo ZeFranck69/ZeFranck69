@@ -106,8 +106,8 @@
 <div align="center">
 
   <a href="https://github.com/ZeFranck69/">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ZeFranck69)](https://github.com/ZeFranck69/github-readme-stats)
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=ZeFranck69)](https://git.io/streak-stats)
   </a>
 </div>
 
@@ -124,24 +124,16 @@
   <ul>
 
   <li>
-    <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin:0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+    <a href="www.linkedin.com/in/françois-sarin-0949b1101" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin:ZeFranck69-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
     </a>
   </li>
 
   <br>
 
   <li>
-    <a href="https://twitter.com/0xabdulkhalid" target="_blank">
-      <img src="https://img.shields.io/badge/twitter:0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
-    </a>
-  </li>
-
-  <br>
-
-  <li>
-    <a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/gmail:0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+    <a href="mailto:francois.sarin.fr@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/gmail:ZeFranck69-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
     </a>
   </li>
 
