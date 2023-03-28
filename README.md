@@ -124,7 +124,7 @@
   <ul>
 
   <li>
-    <a href="www.linkedin.com/in/françois-sarin-0949b1101" target="_blank">
+    <a href="https://www.linkedin.com/in/fran%C3%A7ois-sarin-0949b1101/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin:ZeFranck69-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
     </a>
   </li>
