@@ -23,13 +23,13 @@
 
 ## **À propos**
 
-<picture> <img align="right"
-    src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px></picture>
+<!-- <picture> <img align="right"
+    src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px></picture> -->
 
 <br>
 
 - Développeur Frontend passionné et autodidacte.
-- Site web personel [link](https://www.0xabdulkhalid.ml)
+- [Site web personel](https://francois-sarin.fr/)
 - Bien qu'actuellement freelance, je suis disponible pour un CDI au poste de Développeur web
 
 <br><br>
@@ -90,18 +90,6 @@
  ![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)
  <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-  <a href="https://github.com/ZeFranck69/">
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ZeFranck69)](https://git.io/streak-stats)
-  </a>
-</div>
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
