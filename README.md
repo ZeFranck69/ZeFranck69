@@ -19,7 +19,6 @@
 - 📚 Toujours enthousiaste d'apprendre les technologies Frontend et Backend 😅
 - 💪🏼 Objectif : Apprendre encore plus sur les nouvelles technologies et les maitriser.
 
-<br>
 
 ## **À propos**
 
