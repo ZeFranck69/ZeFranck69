@@ -16,7 +16,7 @@
 ## Je suis développeur front-end et Wordpress
 
 - 👨‍💻 Je suis actuellement en train de me former sur python.
-- 📚 Toujours enthousiaste d'apprendre les technologies Frontend et Backend 😅
+- 📚 Toujours enthousiaste d'apprendre les nouvelles technologies Frontend et Backend 😅
 - 💪🏼 Objectif : Apprendre encore plus sur les nouvelles technologies et les maitriser.
 
 
@@ -29,7 +29,7 @@
 
 - Développeur Frontend passionné et autodidacte.
 - [Site web personel](https://francois-sarin.fr/)
-- Bien qu'actuellement freelance, je suis disponible pour un CDI au poste de Développeur web
+- Je suis disponible pour un CDI au poste de Développeur web
 
 <br><br>
 
