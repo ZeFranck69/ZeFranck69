@@ -6,21 +6,19 @@
 
 <br>
 
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture>
+<!-- <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> -->
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
-<br>
+<img align="" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
-## Je suis développeur front-end et Wordpress
+# Je suis développeur front-end et Wordpress
 
 - 👨‍💻 Je suis actuellement en train de me former sur python.
 - 📚 Toujours enthousiaste d'apprendre les nouvelles technologies Frontend et Backend 😅
 - 💪🏼 Objectif : Apprendre encore plus sur les nouvelles technologies et les maitriser.
 
 
-## **À propos**
+# **À propos**
 
 <!-- <picture> <img align="right"
     src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px></picture> -->
@@ -34,7 +32,7 @@
 <br><br>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 <br>
 
 <p align="center">
